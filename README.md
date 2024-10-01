@@ -8,28 +8,28 @@ This project is a fully responsive IT solutions provider company website for **S
 ## Screenshots
 
 ### Home Page
-![Home Page](./public/s1.png)
+![Home Page](s1.png)
   
 *(This is the home page showcasing various services and a call-to-action button.)*
 
 ---
 
 ### About Page
-![About Page](./public/s2.png)
+![About Page](s2.png)
 
 *(The about page includes company vision, mission, and goals.)*
 
 ---
 
-### Previous Events
-![Previous Events](./public/s3.png)
+### 
+![Photo Gallery](s3.png)
 
 *(Details of the previous events conducted by the company.)*
 
 ---
 
-### Photo Gallery
-![Photo Gallery](./public/s4.png)
+### contact
+![Photo Gallery](s4.png)
 
 *(A gallery showcasing images of events, clients, and projects.)*
 
